@@ -1,3 +1,7 @@
+/*CIS/SWE/24/005
+  WUNUKEN AMAYIKAI
+   SOFTWARE ENGINEERING*/
+
 public class LoanEligibility {
 
     // The exercise does not give the rules, so these are assumed. Change them to match your lab.

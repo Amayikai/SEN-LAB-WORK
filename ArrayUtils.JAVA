@@ -1,3 +1,7 @@
+/*CIS/SWE/24/005
+  WUNUKEN AMAYIKAI
+   SOFTWARE ENGINEERING*/
+
 public class ArrayUtils {
 
     static int max(int[] a) {

@@ -1,3 +1,7 @@
+/*CIS/SWE/24/005
+  WUNUKEN AMAYIKAI
+   SOFTWARE ENGINEERING*/
+
 public class EntryEligibility {
 
     private static final int ADULT_AGE = 18;
